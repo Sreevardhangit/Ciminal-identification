@@ -1,0 +1,12 @@
+If you face error in Open-cv , try this command Below
+
+pip install opencv-contrib-python
+
+
+(This particular snippet will tell you properly installed or not)
+import cv2
+print(cv2.__version__)
+if hasattr(cv2.face, 'LBPHFaceRecognizer_create'):
+    print("LBPHFaceRecognizer is available.")
+else:
+    print("LBPHFaceRecognizer is still not available.")

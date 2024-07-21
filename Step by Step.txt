@@ -1,0 +1,20 @@
+1. Copy the path 
+
+Ex: D:\PROJECT
+
+2. Re Direction and path change (cd), d:(Directory)
+
+3. Run the Program (python home.py)
+
+4. If it does not work in anoconda console , we navigate the particular file by python(conda) powershell (shift+rightclick) open windoes powershell here
+
+5.Face Reg is available (Program will start to execute withour errors) in tinker
+
+6. Video works fine by Dragging the video file into the folder ensuring that the face is been identified
+
+7. To give Details of the criminal (Navigating to the path) - Face is small because of the identity
+
+8. After Loading the face the Criminal data is stored succesfully
+
+9. Image Surv( First to select the image from the database) the test data is success, the criminal as been found.
+
